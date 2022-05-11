@@ -12,5 +12,6 @@ window.resizable(width=False, height=False)
 
 window.bind("<Button-1>",click)
 
+tk.Label(text="Hello", font=("",30), fg="orange").pack(side="left")
 
 window.mainloop()
