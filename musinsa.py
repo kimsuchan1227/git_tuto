@@ -3,7 +3,7 @@ import tkinter.messagebox as mbox
 import tkinter.simpledialog as sim
 
 def click(event) :
-    mbox.showinfo("",(event.x,event.y))
+    mbox.showinfo("hello",(event.x,event.y))
 
 window = tk.Tk()
 
