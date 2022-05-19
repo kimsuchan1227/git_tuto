@@ -5,7 +5,6 @@ import tkinter.simpledialog as sim
 def click(event) :
     mbox.showinfo("git bye",(event.x,event.y))
 
-
 window = tk.Tk()
 
 window.title("hello_tuto")
