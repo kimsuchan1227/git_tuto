@@ -4,6 +4,10 @@ import tkinter.simpledialog as sim
 
 def click(event) :
     mbox.showinfo("git bye",(event.x,event.y))
+<<<<<<< HEAD
+=======
+
+>>>>>>> ebc165a (git bye)
 
 window = tk.Tk()
 
